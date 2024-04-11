@@ -1,0 +1,14 @@
+.input{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    align-items: flex-end;
+}
+
+.result{
+    font-size: 24px;
+}
+
+.text{
+    font-size: 16px;
+}
